@@ -1,0 +1,86 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Smashy Road Games",
+    "url": "https://smashy-road.github.io/",
+    "description": "Play Smashy Road and Smashy Road Unblocked games online for free in your browser.",
+    "keywords": "smashy road, smashy road unblocked, smashy road games, smashy road wanted, smashy road online",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://smashy-road.github.io/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "name": "Smashy Road",
+    "alternateName": [
+      "Smashy Road Unblocked",
+      "Smashy Road: Wanted",
+      "Smashy Road Games"
+    ],
+    "url": "https://smashy-road.github.io/",
+    "image": "https://eggycaronline.io/site-resource/smashy-road.png",
+    "description": "Smashy Road is an action-packed endless voxel car chase driving game where players must evade police, SWAT teams, attack helicopters, and army tanks.",
+    "genre": [
+      "Action",
+      "Driving",
+      "Arcade",
+      "Racing"
+    ],
+    "gamePlatform": [
+      "Web Browser",
+      "Chromebook",
+      "Desktop",
+      "Mobile"
+    ],
+    "applicationCategory": "Game",
+    "operatingSystem": "Any",
+    "inLanguage": "en",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Smashy Road Unblocked?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Smashy Road Unblocked is a free-to-play web version of the popular voxel police pursuit game Smashy Road: Wanted. You control a runaway vehicle navigating an endless procedural city while fleeing an increasing wanted level of police, SWAT, and military forces."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I play Smashy Road Unblocked on school Chromebooks?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! Smashy Road runs directly in any modern HTML5/WebGL web browser with HTTPS encryption, allowing students to play smoothly on Chromebooks and school networks without needing to download files or install extensions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you survive longer and avoid getting busted in Smashy Road?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To survive longer in Smashy Road, avoid driving in straight lines. Weave between buildings, trees, and obstacles to make police vehicles crash into each other. Collect cash crates to unlock faster and more durable vehicles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Smashy Road free to play online?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Smashy Road is 100% free to play directly in your web browser with no download, subscription, or registration required."
+        }
+      }
+    ]
+  }
+]
